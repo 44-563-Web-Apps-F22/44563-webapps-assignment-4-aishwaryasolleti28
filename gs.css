@@ -1,0 +1,145 @@
+.fia{
+    color: rgb(230, 109, 230);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.fia:hover{
+    color: white;
+    background-color: black;
+}
+.cho{
+    color: rgb(109, 230, 143);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.cho:hover{
+    color: rgb(112, 5, 5);
+    background-color: rgb(37, 116, 101);
+}
+
+.FRA{
+    color: rgb(230, 109, 119);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.FRA:hover{
+    color: rgb(48, 112, 5);
+    background-color: rgb(37, 116, 101);
+}
+.GIU{
+    color: rgb(143, 109, 230);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.GIU:hover{
+    color: rgb(112, 5, 5);
+    background-color: rgb(116, 95, 37);
+}
+.ANT{
+    color: rgb(9, 87, 101);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.ANT:hover{
+    color: rgb(112, 5, 89);
+    background-color: rgb(91, 37, 116);
+}
+.VIT{
+    color: rgb(101, 9, 9);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.VIT:hover{
+    color: rgb(101, 112, 5);
+    background-color: rgb(91, 37, 116);
+}
+.MAR{
+    color: rgb(9, 32, 101);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.MAR:hover{
+    color: rgb(112, 5, 103);
+    background-color: rgb(116, 37, 37);
+}
+.BOTH{
+    color: rgb(101, 9, 9);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.BOTH:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(116, 37, 100);
+}
+.CHOB{
+    color: rgb(101, 93, 9);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.CHOB:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(37, 50, 116);
+}
+.CHOG{
+    color: rgb(9, 101, 50);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.CHOG:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(116, 37, 37);
+}
+.CHORUS{
+    color: rgb(9, 58, 101);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.CHORUS:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(116, 37, 100);
+}
+.TESS{
+    color: rgb(27, 9, 101);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.TESS:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(116, 37, 37);
+}
+.MAR{
+    color: rgb(101, 86, 9);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.MAR:hover{
+    color: rgb(5, 112, 98);
+    background-color: rgb(37, 116, 55);
+}
+
+
+
+
+
+.direction{
+    color: black;
+    font-style: italic;
+    background-color: lightpink;
+}
+.direction:hover{
+    background-color: black;
+    color: white;
+}
